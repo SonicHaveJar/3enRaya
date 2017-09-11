@@ -1,2 +1,2 @@
 # 3enRaya
-Tres en raya en java
+No está completado. En un futuro, lo hare online jaja salu2.
